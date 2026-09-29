@@ -1,0 +1,10 @@
+.DS_Store
+.Rhistory
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+tmp/
+
+# Kept locally: third-party source material and course slides.
+Pareschi_Paper.pdf
+Stat_Mec_Presentation.pdf
