@@ -5,6 +5,5 @@ __pycache__/
 .ipynb_checkpoints/
 tmp/
 
-# Kept locally: third-party source material and course slides.
+# Kept locally: third-party source material.
 Pareschi_Paper.pdf
-Stat_Mec_Presentation.pdf
